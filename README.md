@@ -1,7 +1,11 @@
 AirBnB clone - The console
 ![221363935-3c9b928d-a6dd-4bae-8098-833bb8d508f6](https://user-images.githubusercontent.com/112869342/221410657-a2a519f1-082f-487d-a8f0-d6a37bdaf16d.png)
 
-Description 🏷️
+
+
+
+
+Description 🏷
 
 
 
@@ -53,7 +57,9 @@ Your shell should work like this in interactive mode:
        
        
        
-       But also in non-interactive mode: (like the Shell project in C)
+   
+   
+   But also in non-interactive mode: (like the Shell project in C)
        
        
        
@@ -66,7 +72,7 @@ Your shell should work like this in interactive mode:
        
        
        
-                                               $ echo "help" | ./console.py
+                                           $ echo "help" | ./console.py
                                         (hbnb)
 
                                         Documented commands (type help <topic>):
