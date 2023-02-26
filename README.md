@@ -2,6 +2,15 @@ AirBnB clone - The console
 ![221363935-3c9b928d-a6dd-4bae-8098-833bb8d508f6](https://user-images.githubusercontent.com/112869342/221410657-a2a519f1-082f-487d-a8f0-d6a37bdaf16d.png)
 
 Description 🏷️
+
+
+
+
+
+
+
+
+
 HolbertonBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
 
 This team project is part of the (Alx) Holberton School Software Engineering program.
@@ -46,6 +55,10 @@ $ echo "help" | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
+
+  
+  
+  
 ========================================
 
 EOF help quit
@@ -59,7 +72,10 @@ $ cat test_help | ./console.py
 
   
 Documented commands (type help <topic>):
-========================================
+
+  
+  
+ ========================================
 EOF help quit
 (hbnb)
 $
